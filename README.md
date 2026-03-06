@@ -11,6 +11,5 @@ This repository contains coursework and projects for CIS 3902.
 - <a href="https://colab.research.google.com/github/EJBass2003/CIS-3902-AI-ML-Eric-Bass/blob/main/regularization_EB.ipynb">Regularization</a><br>
 - <a href="https://colab.research.google.com/github/EJBass2003/CIS-3902-AI-ML-Eric-Bass/blob/main/Data_Cleaning_Exercise_EB.ipynb">Data Wrangling Tutorial</a><br>
 - <a href="https://colab.research.google.com/github/EJBass2003/CIS-3902-AI-ML-Eric-Bass/blob/main/Data_Cleaning_Exercise_Class_EB.ipynb">Data Wrangling Exercise</a><br>
-
-
-
+- <a href="https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Titanic_Seaborn_Decision_Tree.ipynb#scrollTo=07b416b6">Titanic Decision Tree</a><br>\
+- - <a href="https://colab.research.google.com/drive/1PdONqkdMED9zFULuRlgamUyNqClm7nVP#scrollTo=b977efc8">Mushroom Decision Tree</a><br>
