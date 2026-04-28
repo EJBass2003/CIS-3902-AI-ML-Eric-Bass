@@ -15,3 +15,4 @@ This repository contains coursework and projects for CIS 3902.
 - <a href="https://colab.research.google.com/drive/1PdONqkdMED9zFULuRlgamUyNqClm7nVP#scrollTo=b977efc8">Mushroom Decision Tree</a><br>
 - <a href="https://colab.research.google.com/github/EJBass2003/CIS-3902-AI-ML-Eric-Bass/blob/main/Autoviz_EB(3).ipynb">Automating Data Exploration</a><br>
 - <a href="https://colab.research.google.com/github/EJBass2003/CIS-3902-AI-ML-Eric-Bass/blob/main/random_forest_crime_assignment_EB(1).ipynb">Random Forest Crime Lab</a><br>
+- <a href="https://colab.research.google.com/drive/1-a2lXT-FN7aNWh-GRqj7sKB_Ol-dZ81f">Customer Segmentation Using Clustering</a><br>
